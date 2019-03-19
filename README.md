@@ -1,3 +1,3 @@
 <center>
-![screenshot](screenshot.gif)
+<img alt="screenshot" src="screenshot.gif" />
 </center>
